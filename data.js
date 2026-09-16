@@ -1,0 +1,1 @@
+window.FALLBACK={"quotes":{"TSLA":{"price":356.3,"prev":358.62,"lastBar":356.65},"AAPL":{"price":331.34,"prev":236.7,"lastBar":333.08},"SPY":{"price":757.39,"prev":660.91,"lastBar":760.88},"QQQ":{"price":704.54,"prev":591.68,"lastBar":709.18},"NVDA":{"price":212.17,"prev":177.75,"lastBar":210.96}}};
