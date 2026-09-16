@@ -1,2 +1,4 @@
-# flockys-trade-school
-Flockys Trade School — phone-friendly TradingView learning prototype
+# Flockys Trade School
+
+Phone-friendly TradingView learning prototype.
+Open index.html after deploy.
